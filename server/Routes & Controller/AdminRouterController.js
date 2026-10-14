@@ -4,7 +4,7 @@ const TokenAuthMiddleware = require("../Middleware/TokenAuthMiddleware");
 const Ritual = require("../Models/Ritual");
 const Pandit = require("../Models/Pandit");
 const Booking = require("../Models/Booking");
-const User = require("../models/User");
+const User = require("../Models/User");
 const Dispute = require("../Models/Dispute");
 const Feedback = require("../Models/Feedback");
 
